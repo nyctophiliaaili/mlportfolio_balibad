@@ -11,7 +11,7 @@ with col2:
 with col3:
     st.image("dan3.jpg", caption="@ Don Salvador Benidicto")
 # Personal Information
-st.header("PERSONAL INFORMATION")
+st.header("👩‍🦱 PERSONAL INFORMATION")
 st.write("NAME : DANIELLE MARIE G. BALIBAD")
 st.write("AGE : 22 YEARS OLD")
 st.write("EDUCATION : Currently studying at Carlos Hilado Memorial State University")
@@ -31,16 +31,12 @@ st.write("    - APRIL JOY BALIBAD")
 st.write("    - APRIL GRACE BALIBAD")
 
 # Favorite Quotes
-st.header("Favorite Quotes")
+st.header("📝 Favorite Quotes")
 st.write('"Every accomplishment starts with the decision to try."')
 st.write('"Success is not the key to happiness. Happiness is the key to success."')
 st.write('"The only way to do great work is to love what you do."')
 st.write('"Don’t watch the clock; do what it does. Keep going."')
 st.write('"Success is not in what you have, but who you are."')
-
-# Gallery
-st.header("🖼️ Gallery")
-# Add more images here
 
 # Additional Information
 st.header("💡 Additional Information")
