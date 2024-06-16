@@ -12,14 +12,14 @@ show_pages(
         Page("pages/what_i_learned.py", "What I Have Learned", "📚", in_section=True),
         
         Section("Machine Learning UI App", "🧙‍♂️"),
-        Page("pages/sentiment_analysis_app.py", "Basic Sentiment Analyzer", "1️⃣", in_section=True),
-        Page("pages/california_housing.py", "California Housing Price Predictor", "2️⃣", in_section=True),
-        Page("pages/animals_img_classification.py", "Animals Image Classification", "3️⃣", in_section=True),
-  
+        Page("pages/sentiment_analysis_app.py", "Basic Sentiment Analyzer", "👍", in_section=True),
+        Page("pages/california_housing.py", "California Housing Price Predictor", "💰", in_section=True),
+        Page("pages/animals_img_classification.py", "Animals Image Classification", "🐾", in_section=True),
+
         Section("Sample Source Code", "💾"),
-        Page("pages/sentiment_src.py", "Basic Sentiment Analyzer SRC", "1️⃣", in_section=True),
-        Page("pages/housing_src.py", "California Housing Price Predictor SRC", "2️⃣", in_section=True),
-        Page("pages/animals_img_classification_src.py", "Animals Image Classification SRC", "3️⃣", in_section=True),
+        Page("pages/sentiment_src.py", "Basic Sentiment Analyzer SRC", "👍", in_section=True),
+        Page("pages/housing_src.py", "California Housing Price Predictor SRC", "💰", in_section=True),
+        Page("pages/animals_img_classification_src.py", "Animals Image Classification SRC", "🐾", in_section=True),
 
     ]
 )
