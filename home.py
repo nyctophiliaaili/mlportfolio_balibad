@@ -30,8 +30,6 @@ st.image("./balibad.jpg")
 st.markdown("""For more info, contact <a href="https://www.facebook.com/profile.php?id=100010493740908">Danielle Marie Balibad</a> on Facebook""",unsafe_allow_html=True,)
 
 st.info("Visit the project [Github](https://github.com/nyctophiliaaili/mlportfolio_balibad)")
-st.info("Issues are now fixed with Streamlit 1.35.0")
-st.info("👨‍🔧 Please take note when on streamlit.app the [Image Classification] pages are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit") 
 st.markdown("---")
 
 st.markdown("### HISTORY, PURPOSE AND USAGE of MACHINE LEARNING")
