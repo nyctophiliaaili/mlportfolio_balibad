@@ -1,10 +1,10 @@
 import streamlit as st
 
 # Title
-st.title("What I Learned")
+st.title("🎓 What I Learned")
 st.image("back.jpg")
 # Learnings from Quantitative Methods: Building Foundations for the Future
-st.header("Learnings from Quantitative Methods: Building Foundations for the Future")
+st.header("📊 Learnings from Quantitative Methods: Building Foundations for the Future")
 st.write("""
 Studying Quantitative Methods has been instrumental in building a strong foundation for my future endeavors in data science and machine learning. 
 I gained a solid understanding of statistical concepts, data analysis techniques, and mathematical principles that are essential for working with data. 
@@ -15,7 +15,7 @@ This knowledge has helped me in various aspects of my projects, from data prepro
 st.header("Practical Applications")
 
 # Sentiment Analysis
-with st.expander("Sentiment Analysis"):
+with st.expander("📝 Sentiment Analysis"):
     st.write("""
     Sentiment analysis involves analyzing and classifying text data to determine the sentiment expressed, 
     such as positive, negative, or neutral. In my project on the basic sentiment analyzer, 
@@ -24,7 +24,7 @@ with st.expander("Sentiment Analysis"):
     """)
 
 # Prediction
-with st.expander("Prediction"):
+with st.expander("🔮 Prediction"):
     st.write("""
     Prediction involves using machine learning models to make predictions or forecasts based on input data. 
     In my project on the California housing price predictor, I learned how to train a machine learning model 
@@ -33,7 +33,7 @@ with st.expander("Prediction"):
     """)
 
 # Image Classification
-with st.expander("Image Classification"):
+with st.expander("🖼️ Image Classification"):
     st.write("""
     Image classification is the task of categorizing images into predefined classes or labels. 
     In my project on animals image classification, I learned how to use pre-trained models and image embeddings 
