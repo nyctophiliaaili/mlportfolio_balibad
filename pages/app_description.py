@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title
-st.title("App Descriptions")
+st.title("Streamlit App Descriptions")
 
 # Basic Sentiment Analyzer
 st.header("Basic Sentiment Analyzer")
