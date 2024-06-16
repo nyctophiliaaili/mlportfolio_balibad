@@ -15,6 +15,13 @@ st.write("## Animal Image Classification Demo")
 st.write(
     ":grin: Upload an image of an animal, and we'll predict which animal it is based on our model :grin:"
 )
+
+st.write("""
+This application classifies uploaded images of animals into different categories using a pre-trained model. 
+You can upload an image and the model will predict which animal is in the image. 
+The classification is limited to the following animals: antelope, badger, bat, bear, bee, beetle, bison, boar, butterfly, cat, caterpillar, chimpanzee, cockroach, cow, coyote, crab, crow, deer, dog, dolphin, donkey, dragonfly, duck, eagle, elephant.
+""")
+
 st.sidebar.write("## Upload your image :gear:")
 
 MAX_FILE_SIZE = 5 * 1024 * 1024  # 5MB
