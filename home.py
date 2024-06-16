@@ -8,7 +8,7 @@ show_pages(
         Section("Machine Learning UI App", "🧙‍♂️"),
         Page("pages/sentiment_analysis_app.py", "Basic Sentiment Analyzer", "1️⃣", in_section=True),
         Page("pages/california_housing.py", "California Housing Price Predictor", "2️⃣", in_section=True),
-        Page("pages/img_classification.py", "Animals Image Classification", "3️⃣", in_section=True),
+        Page("pages/animals_img_classification.py", "Animals Image Classification", "3️⃣", in_section=True),
   
         Section("Sample Source Code", "💾"),
         Page("pages/crop_src.py", "Crop Recommendation SRC", "1️⃣", in_section=True),
