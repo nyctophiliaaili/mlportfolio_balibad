@@ -109,7 +109,7 @@ Key features of Streamlit include:
 
 The goal of Streamlit is to empower data scientists and machine learning engineers to create interactive applications quickly and easily, without having to worry about the complexities of web development. Whether you need to build a quick prototype or a fully-featured application, Streamlit provides the tools you need to bring your ideas to life.
             
-### ⭐ Star the project on Github  <iframe src="https://github.com/nyctophiliaaili/mlportfolio_balibad.git"  width="150" height="20" title="GitHub"></iframe>   
+### ⭐ Star the project on Github  <iframe src="https://ghbtns.com/github-btn.html?user=nyctophiliaaili&repo=streamlit_web_app&type=star&count=true"  width="150" height="20" title="GitHub"></iframe>   
 """, unsafe_allow_html=True)
 
 hide_streamlit_style = """
