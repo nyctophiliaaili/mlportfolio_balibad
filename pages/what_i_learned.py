@@ -11,6 +11,9 @@ I gained a solid understanding of statistical concepts, data analysis techniques
 This knowledge has helped me in various aspects of my projects, from data preprocessing to model evaluation.
 """)
 
+# Practical Applications
+st.header("Practical Applications")
+
 # Sentiment Analysis
 with st.expander("Sentiment Analysis"):
     st.write("""
@@ -19,9 +22,6 @@ with st.expander("Sentiment Analysis"):
     I learned how to use NLTK and a Naive Bayes classifier to perform sentiment analysis on text messages. 
     This taught me the importance of text preprocessing and feature engineering in natural language processing tasks.
     """)
-
-# Practical Applications
-st.header("Practical Applications")
 
 # Prediction
 with st.expander("Prediction"):
