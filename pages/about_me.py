@@ -1,8 +1,15 @@
 import streamlit as st
 
 # Title
-st.title("About Danielle Marie G. Balibad 👧")
-
+st.title("About Danielle 👧")
+# Images
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.image("dan2.jpg", caption="Danielle Marie G. Balibad")
+with col2:
+    st.image("dan1.jpg", caption="Danielle Marie G. Balibad")
+with col3:
+    st.image("dan3.jpg", caption="Danielle Marie G. Balibad")
 # Personal Information
 st.header("PERSONAL INFORMATION")
 st.write("NAME : DANIELLE MARIE G. BALIBAD")
