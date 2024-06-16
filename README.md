@@ -5,9 +5,9 @@ You may visit the site: [VISIT DEMO](https://mlportfolio.streamlit.app/).
 
 _Simple sentiment analyzer_
 
-_Crop recommendation system based on NPK levels (prediction)_
+_California Housing Price Predictor_
 
-_Image Classification_
+_Animals Image Classification_
 
 ## Screenshots of the system
 
