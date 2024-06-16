@@ -21,10 +21,6 @@ show_pages(
     ]
 )
 
-st.set_page_config(
-    page_title="ITEQMT Machine Learning Application Portfolio",
-    page_icon="💻"
-)
 
 hide_pages(["Thank you"])
 
