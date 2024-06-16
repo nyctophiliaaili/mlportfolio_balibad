@@ -6,10 +6,9 @@ show_pages(
     [   
         Page("home.py", "ITEQMT Machine Learning Application Portfolio", "💻"),
         Section("Machine Learning UI App", "🧙‍♂️"),
-        Page("pages/sentiment_analysis_app.py", "Basic Sentiment Analyzer", "2️⃣", in_section=True),
-        Page("pages/crop_recom_streamlitapp.py", "Crop Recommendation ML Model", "1️⃣", in_section=True),
-        Page("pages/img_classification.py", "Image Classification 1 (Sky Condition)", "3️⃣", in_section=True),
-        Page("pages/img_classification_lettuce_diseases.py", "Image Classification 2 (Lettuce Diseaes)", "4️⃣", in_section=True),
+        Page("pages/sentiment_analysis_app.py", "Basic Sentiment Analyzer", "1️⃣", in_section=True),
+        Page("pages/crop_recom_streamlitapp.py", "California Housing Price Predictor", "2️⃣", in_section=True),
+        Page("pages/img_classification.py", "Animals Image Classification)", "3️⃣", in_section=True),
   
         Section("Sample Source Code", "💾"),
         Page("pages/crop_src.py", "Crop Recommendation SRC", "1️⃣", in_section=True),
