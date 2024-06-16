@@ -12,6 +12,6 @@ _Animals Image Classification_
 ## Screenshots of the system
 
 ![Basic Sentiment Analyzer](sentiment_analyzer.png)
-![California House Price Predictor](house_price_predictor.png)
+![California House Price Predictor](housing_price_predictor.png)
 ![Animal Image Classification](animal_classification.png)
 
