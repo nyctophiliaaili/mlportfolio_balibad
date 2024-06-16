@@ -24,33 +24,48 @@ show_pages(
 
 hide_pages(["Thank you"])
 
-st.markdown("### 👨‍🔧 ML Learning by [koalatech](https://github.com/koalatech)")
+st.markdown("### FINAL REQUIREMENTS PRESENTED BY:")
+st.markdown("### BALIBAD, DANIELLE of BSIS 3-B")
 
-st.image("./back.jpg")
-st.markdown("""<a href="/photographer/thinkstock-83786">Thinkstock</a> on <a href="/">Freeimages.com</a>""",unsafe_allow_html=True,)
+st.image("./balibad.jpg")
+st.markdown("""For more info, contact <a href="https://www.facebook.com/profile.php?id=100010493740908">Danielle Marie Balibad</a> on Facebook""",unsafe_allow_html=True,)
 
-st.info("Visit the project [Github](https://github.com/koalatech/machine_learning_portfolio_streamlit_web_app)")
+st.info("Visit the project [Github](https://github.com/nyctophiliaaili/mlportfolio_balibad)")
 st.info("Issues are now fixed with Streamlit 1.35.0")
 st.info("👨‍🔧 Please take note when on streamlit.app the [Image Classification] pages are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit") 
 st.markdown("---")
 
-with st.expander("Sample ""st.expander"""):
+with st.expander("History of Machine Learning"):
     st.markdown("""
-    
-    <a href=""><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
+    # History
+    Machine learning has a rich history that dates back to the 1950s. The field evolved from early theories of artificial intelligence and the development of neural networks. Notable milestones include:
+    - 1950: Alan Turing proposes the Turing Test to assess a machine's ability to exhibit intelligent behavior.
+    - 1952: Arthur Samuel develops the first computer program that can learn and improve its performance at playing checkers.
+    - 1980s: The rise of machine learning research and the development of backpropagation for training neural networks.
+    - 2000s: The advent of big data and powerful GPUs fuels the growth of deep learning, leading to significant breakthroughs in image and speech recognition.
+    """)
 
-    #
+with st.expander("Purpose of Machine Learning"):
+    st.markdown("""
+    # Purpose
+    The purpose of machine learning is to enable computers to learn from data and make decisions or predictions without being explicitly programmed. This can be broken down into several key objectives:
+    - **Automation**: Automating repetitive and time-consuming tasks.
+    - **Prediction**: Making predictions based on historical data, such as stock prices or weather forecasts.
+    - **Pattern Recognition**: Identifying patterns and anomalies in large datasets, such as detecting fraudulent transactions or diagnosing medical conditions.
+    - **Personalization**: Providing personalized recommendations and experiences, such as in e-commerce or content streaming services.
+    """)
 
-        HISTORY, PURPOSE AND USAGE
-        Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. 
-        The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:
-        “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”
-        The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. 
-        A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
-        The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. 
-        Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.
-        
-    #""", unsafe_allow_html=True)
+with st.expander("Usage of Machine Learning"):
+    st.markdown("""
+    # Usage
+    Machine learning is widely used across various industries and applications:
+    - **Healthcare**: For diagnosing diseases, predicting patient outcomes, and personalizing treatment plans.
+    - **Finance**: For fraud detection, algorithmic trading, and credit scoring.
+    - **Retail**: For customer segmentation, inventory management, and personalized marketing.
+    - **Transportation**: For optimizing routes, predicting maintenance needs, and enabling autonomous driving.
+    - **Entertainment**: For content recommendation, sentiment analysis, and creating realistic computer-generated imagery (CGI).
+    - **Agriculture**: For crop prediction, soil analysis, and precision farming.
+    """)
 
 st.markdown("""
 ### 👨‍🎓 Sample Header Title
