@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Streamlit App Descriptions")
 
 # Basic Sentiment Analyzer
-st.header("Basic Sentiment Analyzer")
+st.header("📝 Basic Sentiment Analyzer")
 st.image("sentiment_analyzer.png", caption="Basic Sentiment Analyzer")
 st.write("""
 This application analyzes the sentiment of a text message and classifies it as positive or negative. 
@@ -13,7 +13,7 @@ You can input a message and click the 'Say it' button to see the sentiment analy
 """)
 
 # California Housing Price Predictor
-st.header("California Housing Price Predictor")
+st.header("🏠 California Housing Price Predictor")
 st.image("housing_price_predictor.png", caption="California Housing Price Predictor")
 st.write("""
 This application predicts the median house value in California based on various housing features. 
@@ -22,7 +22,7 @@ to get the predicted median house value.
 """)
 
 # Animals Image Classification
-st.header("Animals Image Classification")
+st.header("🐾 Animals Image Classification")
 st.image("animal_classification.png", caption="Animals Image Classification")
 st.write("""
 This application classifies uploaded images of animals into different categories using a pre-trained model. 
