@@ -89,25 +89,25 @@ st.markdown("""
    Since its release, Streamlit has gained a lot of popularity due to its simplicity and ease of use. It is widely used in the data science community and has a growing ecosystem of plugins and extensions.
 
    Whether you are building a quick prototype or a complex data visualization, Streamlit provides the tools you need to get your application up and running quickly and efficiently.
-""")
+
 
 ### 🔎 Overview""", unsafe_allow_html=True)
 
 
-st.image("./back.jpg")
-
+st.image("./streamlit.png")
 
 st.markdown("""
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Id neque aliquam vestibulum morbi blandit cursus risus. Sagittis nisl rhoncus mattis rhoncus. 
-Purus viverra accumsan in nisl nisi scelerisque eu. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. 
-Eleifend quam adipiscing vitae proin. Neque convallis a cras semper auctor neque. Et tortor consequat id porta nibh. 
-Vitae nunc sed velit dignissim sodales ut eu. Bibendum ut tristique et egestas quis ipsum suspendisse. 
-Pharetra massa massa ultricies mi. In nulla posuere sollicitudin aliquam ultrices sagittis. Et pharetra pharetra massa massa. 
-Pretium viverra suspendisse potenti nullam ac. Viverra accumsan in nisl nisi scelerisque eu ultrices vitae auctor. 
-Nibh mauris cursus mattis molestie a iaculis at erat. Diam sit amet nisl suscipit. 
-Urna molestie at elementum eu facilisis sed odio morbi quis. Arcu non sodales neque sodales.
+Streamlit is an open-source Python library that enables the creation of interactive, web-based applications for data science and machine learning projects. It is designed to simplify the process of building and sharing web apps without requiring extensive web development experience.
+
+Key features of Streamlit include:
+
+- **Ease of Use**: Streamlit allows you to create web apps with just a few lines of Python code. The intuitive API makes it easy to add interactive widgets such as sliders, buttons, and input fields.
+- **Real-Time Updates**: Streamlit apps automatically update in real-time as you make changes to your code. This makes it easy to iterate and improve your app quickly.
+- **Wide Range of Widgets**: Streamlit provides a variety of built-in widgets for common tasks such as displaying tables, plotting graphs, and handling user input. You can also create custom widgets as needed.
+- **Integration with Python Libraries**: Streamlit seamlessly integrates with popular Python libraries such as NumPy, pandas, Matplotlib, and Plotly, making it easy to incorporate data processing and visualization into your app.
+- **Deployment Options**: Streamlit apps can be deployed on various platforms, including Streamlit Cloud, Heroku, and AWS. This makes it easy to share your apps with others.
+
+The goal of Streamlit is to empower data scientists and machine learning engineers to create interactive applications quickly and easily, without having to worry about the complexities of web development. Whether you need to build a quick prototype or a fully-featured application, Streamlit provides the tools you need to bring your ideas to life.
             
 ### ⭐ Star the project on Github  <iframe src="https://ghbtns.com/github-btn.html?user=koalatech&repo=streamlit_web_app&type=star&count=true"  width="150" height="20" title="GitHub"></iframe>   
 """, unsafe_allow_html=True)
