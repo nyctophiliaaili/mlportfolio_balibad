@@ -11,18 +11,6 @@ I gained a solid understanding of statistical concepts, data analysis techniques
 This knowledge has helped me in various aspects of my projects, from data preprocessing to model evaluation.
 """)
 
-# Practical Applications
-st.header("Practical Applications")
-
-# Image Classification
-with st.expander("Image Classification"):
-    st.write("""
-    Image classification is the task of categorizing images into predefined classes or labels. 
-    In my project on animals image classification, I learned how to use pre-trained models and image embeddings 
-    to classify images of animals into different categories. This helped me understand the concept of 
-    feature extraction and how it can be applied in real-world scenarios.
-    """)
-
 # Sentiment Analysis
 with st.expander("Sentiment Analysis"):
     st.write("""
@@ -31,6 +19,9 @@ with st.expander("Sentiment Analysis"):
     I learned how to use NLTK and a Naive Bayes classifier to perform sentiment analysis on text messages. 
     This taught me the importance of text preprocessing and feature engineering in natural language processing tasks.
     """)
+
+# Practical Applications
+st.header("Practical Applications")
 
 # Prediction
 with st.expander("Prediction"):
@@ -41,3 +32,11 @@ with st.expander("Prediction"):
     preprocess data, train a model, and evaluate its performance for prediction tasks.
     """)
 
+# Image Classification
+with st.expander("Image Classification"):
+    st.write("""
+    Image classification is the task of categorizing images into predefined classes or labels. 
+    In my project on animals image classification, I learned how to use pre-trained models and image embeddings 
+    to classify images of animals into different categories. This helped me understand the concept of 
+    feature extraction and how it can be applied in real-world scenarios.
+    """)
