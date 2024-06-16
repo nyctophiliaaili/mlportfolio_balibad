@@ -5,6 +5,11 @@ st.title("What I Learned")
 st.image("back.jpg")
 # Learnings from Quantitative Methods: Building Foundations for the Future
 st.header("Learnings from Quantitative Methods: Building Foundations for the Future")
+st.write("""
+Studying Quantitative Methods has been instrumental in building a strong foundation for my future endeavors in data science and machine learning. 
+I gained a solid understanding of statistical concepts, data analysis techniques, and mathematical principles that are essential for working with data. 
+This knowledge has helped me in various aspects of my projects, from data preprocessing to model evaluation.
+""")
 
 # Practical Applications
 st.header("Practical Applications")
