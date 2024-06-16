@@ -5,6 +5,12 @@ add_page_title()
 show_pages(
     [   
         Page("home.py", "ITEQMT Machine Learning Application Portfolio", "💻"),
+        
+        Section("Main Page", "🏠"),
+        Page("pages/about_me.py", "About Me", "👨‍💻", in_section=True),
+        Page("pages/app_description.py", "Streamlit App Description", "📜", in_section=True),
+        Page("pages/what_i_learned.py", "What I Have Learned", "📚", in_section=True),
+        
         Section("Machine Learning UI App", "🧙‍♂️"),
         Page("pages/sentiment_analysis_app.py", "Basic Sentiment Analyzer", "1️⃣", in_section=True),
         Page("pages/california_housing.py", "California Housing Price Predictor", "2️⃣", in_section=True),
