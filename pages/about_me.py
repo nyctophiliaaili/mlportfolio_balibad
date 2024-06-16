@@ -5,11 +5,11 @@ st.title("About Danielle 👧")
 # Images
 col1, col2, col3 = st.columns(3)
 with col1:
-    st.image("dan2.jpg", caption="Danielle Marie G. Balibad")
+    st.image("dan2.jpg", caption="@ CHMSU")
 with col2:
-    st.image("dan1.jpg", caption="Danielle Marie G. Balibad")
+    st.image("dan1.jpg", caption="W/ her Lolo")
 with col3:
-    st.image("dan3.jpg", caption="Danielle Marie G. Balibad")
+    st.image("dan3.jpg", caption="@ Don Salvador Benidicto")
 # Personal Information
 st.header("PERSONAL INFORMATION")
 st.write("NAME : DANIELLE MARIE G. BALIBAD")
