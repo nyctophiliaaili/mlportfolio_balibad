@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 
 # Load the trained model from the saved file
-filename = 'housing_model.sav'
+filename = 'pages/housing_model.sav'
 model = pickle.load(open(filename, 'rb'))
 
 st.title("California Housing Price Predictor")
